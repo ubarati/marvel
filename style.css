@@ -1,0 +1,399 @@
+body{
+    background-image: url(https://wallpapercave.com/dwp1x/wp4199963.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.t1{
+    background-color: aliceblue;
+    width: 50rem;
+    height: 2rem;
+}
+.t2{
+    width: 20rem;
+    margin-left: 23rem;
+    color: chartreuse;
+    background-color: red;
+    text-align: center;
+}
+.t3{
+    width: 20rem;
+    margin-left: 52rem;
+    color: chartreuse;
+    margin-top: -3rem;
+    background-color: red;
+    text-align: center;
+}
+
+
+
+.box1{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: 2rem;
+    margin-left: 52rem;
+}
+.image1{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./thanos.jpg);
+    position: absolute;
+}
+.name1{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box2{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: -5rem;
+    margin-left: 59.5rem;
+
+}
+.image2{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./loki.jpg);
+    position: absolute;
+}
+.name2{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box3{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: -5rem;
+    margin-left: 66.5rem;
+}
+.image3{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./ultron.jpg);
+    position: absolute;
+}
+.name3{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box4{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: 3rem;
+    margin-left: 66.5rem;
+}
+.image4{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./redskull.jpg);
+    position: absolute;
+}
+.name4{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box5{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: -5rem;
+    margin-left: 59.5rem;
+}
+.image5{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./kill.jpg);
+    position: absolute;
+}
+.name5{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box6{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: -5rem;
+    margin-left: 52rem;
+}
+.image6{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./kang.jpg);
+    position: absolute;
+}
+.name6{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box7{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: 3rem;
+    margin-left: 66.5rem;
+}
+.image7{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./malekith.jpg);
+    position: absolute;
+}
+.name7{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box8{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: -5rem;
+    margin-left: 59.5rem;
+}
+.image8{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./hella.jpg);
+    position: absolute;
+}
+.name8{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box9{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: -21rem;
+    margin-left: 23rem;
+}
+.image9{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./ironman.jpg);
+    position: absolute;
+}
+.name9{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box10{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: -5rem;
+    margin-left: 30.5rem;
+
+}
+.image10{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./captain\ america.jpg);
+    position: absolute;
+}
+.name10{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box11{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: -5rem;
+    margin-left:37.9rem;
+}
+.image11{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./hawkeye.jpg);
+    position: absolute;
+}
+.name11{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box12{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: 3rem;
+    margin-left: 23rem;
+}
+.image12{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./hulk.jpg);
+    position: absolute;
+}
+.name12{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box13{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: -5rem;
+    margin-left: 30.5rem;
+}
+.image13{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./thor.jpg);
+    position: absolute;
+}
+.name13{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+
+}
+.box14{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: -5rem;
+    margin-left: 37.9rem;
+}
+.image14{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./natasha.jpg);
+    position: absolute;
+}
+.name14{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box15{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: 3rem;
+    margin-left: 23rem;
+}
+.image15{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./groot.jpg);
+    position: absolute;
+}
+.name15{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
+.box16{
+    height:5rem;
+    width: 5rem;
+    background-color: red;
+    position: relative;
+    margin-top: -5rem;
+    margin-left: 30.5rem;
+}
+.image16{
+    height: 4rem;
+    width: 5rem;
+    background-size: cover;
+    background-image: url(./blackpanther.webp);
+    position: absolute;
+}
+.name16{
+    font-size: 1rem;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    position: absolute;
+}
